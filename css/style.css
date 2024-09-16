@@ -95,6 +95,7 @@ body {
   align-items: center;
   font-family: Roboto;
   color: #929292;
+  overflow: auto;
 }
 
 .f-box {
